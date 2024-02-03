@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		SwxUrHnMtqi2faBitp5Bbfd2dBU=
+		UvHTaFNvcfIdoL37t3SYnxA+Td4=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		kBqC9kyywaI1HNhqtdzgLiPoZWA=
+		26JhBHBbqcc+LBkFWQ78B1UM6ws=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		2vfmN+9N/8fo7DI1VJ3kIOrsCWI=
+		qE+I2gtBP9VGlNOjnJY4o1Oxn7A=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lib/images/adidas.png</key>
 		<data>
@@ -273,7 +273,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MsAYa9nn20W9HMWgJCjmgkIfsGpyAprCMCljkWJq2Jg=
+			01aX99ir5+6SJZ6ZTgsWGkkEjQmp9+IN5wfD4FhfM3I=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -287,7 +287,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4Q0iExdcrlqq1ovwbN0fb9PH7YcBezRprJAK73N1qjQ=
+			/xZwXYm29EMKVr7ml40x/0+vd53D8WXhYGcrXtXC2s0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -336,7 +336,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LB2CGHfHcuox4oWYyaYLlQWvNMrcgmnymkbZs3cnFps=
+			gfKPLJtrPMlOVlDXy6ufgGE/8t6rf01H+zcEm/5lIUw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lib/images/adidas.png</key>

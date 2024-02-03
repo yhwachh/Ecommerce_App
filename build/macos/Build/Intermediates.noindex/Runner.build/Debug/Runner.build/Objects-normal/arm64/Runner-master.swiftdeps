@@ -1,8 +1,8 @@
 version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
 options: "48cd5ace20b00324cfaaafd95895de687ac9796c0ed04c0a2198b116f0c70985"
-build_start_time: [1706786241, 453837000]
-build_end_time: [1706786241, 519060000]
+build_start_time: [1707003849, 869055000]
+build_end_time: [1707003849, 897061000]
 inputs:
-  "/Users/ibraguimalbakov/code/dev/ecommerce_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1706786220, 392267322]
+  "/Users/ibraguimalbakov/code/dev/ecommerce_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1707003846, 21057846]
   "/Users/ibraguimalbakov/code/dev/ecommerce_app/macos/Runner/AppDelegate.swift": !private [1706786194, 7714698]
   "/Users/ibraguimalbakov/code/dev/ecommerce_app/macos/Runner/MainFlutterWindow.swift": !private [1706786194, 10752141]
