@@ -13,9 +13,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Ecommerce App',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
       home: const Intro_page(),
     );
   }
