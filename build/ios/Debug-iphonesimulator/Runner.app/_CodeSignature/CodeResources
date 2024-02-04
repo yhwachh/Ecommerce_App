@@ -18,7 +18,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		+uVAw5tWFU8yrS+cd1tHVNlxdis=
+		fgg6ToHKOPJD4URV51kiidqJmIM=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		U0x8EM0781fCPb62BbZIXKeDlZ4=
+		ZVgM1+KwZcZnwhgaI0F7Bt1ba2c=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		sPhzGA41FQRsyiQc9b/v8rCOPg8=
+		nFC1waP0YzYOchnqa85lPwrC73s=
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		UvHTaFNvcfIdoL37t3SYnxA+Td4=
+		rFSwTn1Fq8JII/Yca8TeQUEWwHs=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		26JhBHBbqcc+LBkFWQ78B1UM6ws=
+		Iw0snDdNkvVGS90E6uEUPPZdqvc=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		qE+I2gtBP9VGlNOjnJY4o1Oxn7A=
+		z1mPo5bsrJRJJfoNHQvewprijx0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lib/images/adidas.png</key>
 		<data>
@@ -190,7 +190,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MiFk+XJNvJBD2NUM5DoCf3vBxZU=
+		TJ9gfyebN6mpUPYXANuqSpSQAbI=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -224,7 +224,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uDw62LCTPLS8RNy71Q4BN5B8iX1TdnvH7lO3L1iovJc=
+			ulzk89gGzV3In21vLnIuc27lxj9k8W+c8k2uVobh0Bk=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -245,7 +245,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cWq7q+iQcmpSoaFGecnyPdKFEPFwRD3slgUmxFADkVs=
+			VPNjf2cf66XxnoLsT0p/tEi7PPwPsYDwiapXH8jwU+I=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
@@ -266,14 +266,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZQ2gUxmWEdRgkn12jxaOmSDD+9/+PopRzqA3/yf4tK4=
+			y90o2JQjssm+7ysnziyWCNMNbGqdLnZ595pTgURE5T8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/App</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			01aX99ir5+6SJZ6ZTgsWGkkEjQmp9+IN5wfD4FhfM3I=
+			QebH4l99tANspK3hoEq2tL5qEjPr5YTssskm509PhD8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -287,7 +287,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/xZwXYm29EMKVr7ml40x/0+vd53D8WXhYGcrXtXC2s0=
+			/RqiT+guA9SXsfkpJxdWfeXKTojj/2dKGOD7XBJkfnY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -336,7 +336,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gfKPLJtrPMlOVlDXy6ufgGE/8t6rf01H+zcEm/5lIUw=
+			YcsP2tN3gd3DapbDmpYQO7+bBjQhOnZ6bbow3XvGmn4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lib/images/adidas.png</key>

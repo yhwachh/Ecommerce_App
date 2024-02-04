@@ -35,22 +35,25 @@ class Intro_page extends StatelessWidget {
               const SizedBox(
                 height: 20,
               ),
-              ElevatedButton(
-                style: ElevatedButton.styleFrom(
-                  minimumSize: const Size(300, 50),
-                  primary: Colors.black,
-                  shape: const RoundedRectangleBorder(
-                      borderRadius: BorderRadius.all(Radius.circular(20))),
-                ),
-                onPressed: () {
+              GestureDetector(
+                onTap: () {
                   Navigator.push(
-                    context,
-                    MaterialPageRoute(builder: (context) => HomePage()),
-                  );
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => const HomePage()));
                 },
-                child: const Text(
-                  "Shop Now",
-                  style: const TextStyle(fontSize: 20),
+                child: Container(
+                  width: largeurEcran / 2,
+                  height: 50,
+                  decoration: BoxDecoration(
+                      color: Colors.black,
+                      borderRadius: BorderRadius.circular(20)),
+                  child: const Center(
+                    child: Text(
+                      "Get Started",
+                      style: TextStyle(color: Colors.white),
+                    ),
+                  ),
                 ),
               )
             ],
